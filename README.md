@@ -88,9 +88,9 @@
 
 ## 📬 Contact & Encrypted Comms
 
-- **Email / Inquiries:** `your-email@domain.com`
-- **PGP Key ID:** `0xYOURPGPKEY`
-- **Twitter/X DM:** [@your_handle](https://x.com)
+- **Email / Inquiries:** `GAILOWILLY511@GMAIL.COM`
+- **PGP Key ID:** "VIP5"
+- **Twitter/X DM:** 
 
 ---
 
