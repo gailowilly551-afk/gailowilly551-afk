@@ -1,20 +1,21 @@
 <div align="center">
 
-<!-- Header Banner / Dynamic Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFA3&center=true&vCenter=true&width=750&lines=⚡+WILLY+GAILO+%7C+OFFENSIVE+SECURITY+RESEARCHER;🎯+BUG+BOUNTY+HUNTER+%E2%80%A2+VULN+EXPLOITATION;🔍+BREAKING+THINGS+TO+MAKE+THEM+STRONGER" alt="Typing SVG" />
-</a>
+<!-- Cyber Wave Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=180&section=header&text=WILLY%20GAILO&fontSize=42&fontAlignY=38&desc=Offensive%20Security%20Enthusiast%20%7C%20Bug%20Bounty%20Hunter&descAlignY=62&descAlign=50&fontColor=00FFA3" width="100%" alt="Header Banner" />
+
+<!-- Clean Dynamic Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&width=650&lines=Offensive+Security+Enthusiast;Bug+Bounty+Hunter+%26+Vulnerability+Researcher;Breaking+things+to+make+them+stronger" alt="Typing SVG" />
 
 <br><br>
 
-<!-- Social / Platform Badges (Modern Pill Design) -->
-[![HackerOne](https://img.shields.io/badge/HackerOne-20232A?style=for-the-badge&logo=hackerone&logoColor=red)](https://hackerone.com)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-20232A?style=for-the-badge&logo=bugcrowd&logoColor=orange)](https://bugcrowd.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
-[![Twitter/X](https://img.shields.io/badge/X-20232A?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
-[![Email](https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:GAILOWILLY511@GMAIL.COM)
+<!-- Social / Contact Links (Updated with your exact profile URLs) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/willy-jr-carnasa-gailo-097b37349)
+[![Telegram](https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram&logoColor=24A1DE)](https://t.me/Andi_U1)
+[![Twitter/X](https://img.shields.io/badge/X-20232A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/willygailo)
+[![Facebook](https://img.shields.io/badge/Facebook-20232A?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/share/1Md2V1U4DD/)
+[![Email](https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gailowilly551@gmail.com)
 
-<br>
+<br><br>
 
 ```text
     _   __              __           ____                  __
@@ -118,15 +119,6 @@ identity:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gailowilly551-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=94A3B8" width="55%" />
 
-<br><br>
-
-<!-- Snake Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gailowilly551-afk/gailowilly551-afk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gailowilly551-afk/gailowilly551-afk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/gailowilly551-afk/gailowilly551-afk/output/github-contribution-grid-snake.svg" width="95%">
-</picture>
-
 </div>
 
 ---
@@ -136,15 +128,15 @@ identity:
 <table align="center" style="border: none;">
   <tr>
     <td align="center"><b>Direct Inquiries</b></td>
-    <td><a href="mailto:GAILOWILLY511@GMAIL.COM"><code>GAILOWILLY511@GMAIL.COM</code></a></td>
+    <td><a href="mailto:gailowilly551@gmail.com"><code>gailowilly551@gmail.com</code></a></td>
   </tr>
   <tr>
     <td align="center"><b>PGP Key Fingerprint</b></td>
     <td><code>VIP5 (Available upon verified request)</code></td>
   </tr>
   <tr>
-    <td align="center"><b>Security Platforms</b></td>
-    <td>HackerOne & Bugcrowd Triage Networks</td>
+    <td align="center"><b>Security Channels</b></td>
+    <td><a href="https://t.me/Andi_U1">Telegram (@Andi_U1)</a> • <a href="https://x.com/willygailo">X (@willygailo)</a></td>
   </tr>
 </table>
 
